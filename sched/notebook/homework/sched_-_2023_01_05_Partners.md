@@ -13,3 +13,7 @@
 - note
   - name: Uprooting Anger, Biblical Help for a Common Problem
   - author: Jones, Robert D.
+- goal
+  - 2023_01_11
+    - read 4 chapters
+    - confess sin of bitterness to God

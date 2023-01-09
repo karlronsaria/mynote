@@ -1,0 +1,25 @@
+# request
+- tag: evangelism
+- what
+  - daily routine
+    - one group of solicitees per subteam on Slack
+  - preparation
+    - of the team
+      - to have
+        - confidence and focus
+        - care and heart for unbelievers
+        - the Word of God
+          - excitement for
+          - readiness to preach
+        - courage
+    - of myself
+      - that I would learn
+        - how to preach the Word of God with confidence
+        - from my peers
+        - care and heart for unbelievers
+        - how to talk to and care for my friends on the team
+    - of the region we visit
+      - to have
+        - readiness to hear
+      - the work of the Holy Spirit on their hearts and minds
+      - a path for us to do God's work there
