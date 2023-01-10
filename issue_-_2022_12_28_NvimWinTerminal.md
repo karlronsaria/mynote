@@ -14,7 +14,7 @@
 
 ![Windows Terminal](./res/2022_12_28_154419_actual_WindowsTerminal.gif)
 
-## version
+## platform
 
 ![neovim](./res/Windows-PowerShell-12_28_2022-3_49_05-PM.png)
 
