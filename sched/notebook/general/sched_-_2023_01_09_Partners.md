@@ -1,5 +1,5 @@
 # sched
-- what: Meeting with Ramin
+- what: meeting with Ramin
 - tag: Partners, friend, church
 - when: 2023_01_12_1830
 - where

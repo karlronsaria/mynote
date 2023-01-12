@@ -1,5 +1,5 @@
 # sched
-- what: General Offering
+- what: general offering
 - when: 1600
 - every: mon
 - type: deadline
