@@ -1,12 +1,23 @@
 # sched
-- what: meeting with Ramin
 - tag: Partners, friend, church
-- when: 2023_01_12_1830
+- what: talk with Ramin
+- when: 2023_01_20_1600
 - where
   - address: 24851 Luna Bonita Dr, Laguna Hills, CA 92653
 - type: event
 - todo
-  - [x] read 4 chapters of Jones
-  - [ ] confess to God
-    - sin of bitterness against God
-
+  - [ ] read 4 chapters of Jones
+  - [x] sched
+    - request
+      - change of heart
+        - fighting focus
+        - forgiveness for parents
+        - relinquishing expectations for others
+      - Your forgivenes for my own sins of unforgiveness
+- note
+  - 2023_01_12_1830
+    - what: meeting with Ramin
+    - todo
+      - [x] read 4 chapters of Jones
+      - [x] confess to God
+        - sin of bitterness against God

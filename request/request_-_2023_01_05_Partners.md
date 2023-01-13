@@ -1,6 +1,7 @@
 # request
-- tag: Partners
+- tag: Partners, Ramin
 - list
+
   - 
     - when: 2023_01_05
     - source: Ramin
@@ -31,10 +32,19 @@
   - 
     - when: 2023_01_08
     - source: Ramin
-      - howto
-        - Please forgive this person
-        - Holy Spirit, please root out this bitterness in me
-          - and leave no trace of it in my heart
-        - I want to serve and please you
-          - not my enemy
-        - Help me use my mind to lead my heart
+    - howto
+      - Please forgive this person
+      - Holy Spirit, please root out this bitterness in me
+        - and leave no trace of it in my heart
+      - I want to serve and please you
+        - not my enemy
+      - Help me use my mind to lead my heart
+  - 
+    - when: 2023_01_12
+    - source: Ramin
+    - what
+      - change of heart
+        - fighting focus
+        - forgiveness for parents
+        - relinquishing expectations for others
+      - Your forgivenes for my own sins of unforgiveness

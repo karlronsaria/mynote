@@ -1,0 +1,33 @@
+- 82
+  - Prov 14.16-17
+    - I have misgivings about my own anger
+    - The text here and in Jones reveal that I've been playing a fool
+- 91
+  - Prov
+    - 10
+      - 29-21
+      - 31-32
+  - Matt
+    - 5.23-26
+    - 18.15-17
+    - 18.21-35
+  - Luke 17.3-4
+  - Rom
+    - 12.18
+    - 14.19
+  - Eph 4.3
+  - 2 Tim
+    - 2.22
+- 92
+  - Prov
+    - 15.1
+    - 12.18
+    - 29.11
+    - 16.32
+    - 25.28
+  - Eph
+    - 4.25-32
+      - 32
+  - Matt 5.3-12
+    - 9
+  - Gal 5.22-23
