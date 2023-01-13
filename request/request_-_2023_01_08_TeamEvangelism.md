@@ -8,13 +8,13 @@
       - to have
         - confidence and focus
         - care and heart for unbelievers
-        - the Word of God
+        - _ Your Word
           - excitement for
           - readiness to preach
         - courage
     - of myself
       - that I would learn
-        - how to preach the Word of God with confidence
+        - how to preach Your Word with confidence
         - from my peers
         - care and heart for unbelievers
         - how to talk to and care for my friends on the team
@@ -22,4 +22,4 @@
       - to have
         - readiness to hear
       - the work of the Holy Spirit on their hearts and minds
-      - a path for us to do God's work there
+      - a path for us to do Your work there
