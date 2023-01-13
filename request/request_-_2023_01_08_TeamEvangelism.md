@@ -21,5 +21,5 @@
     - of the region we visit
       - to have
         - readiness to hear
-      - the work of the Holy Spirit on their hearts and minds
+      - the work of the Holy Spirit on their hearts
       - a path for us to do Your work there

@@ -3,7 +3,6 @@
 - where
   - 25725 Jeronimo Rd, Mission Viejo, CA, 92691, United States
 - when
-  - [ ] 2023_01_12
   - [ ] 2023_01_15
   - [ ] 2023_02_11
   - [ ] 
@@ -14,6 +13,7 @@
   - retrieved: 2022_12_18
 - note
   - complete
+    - [x] 2023_01_12
     - [x] 2023_01_07
     - [x] 2023_01_06
     - [x] 2022_12_30

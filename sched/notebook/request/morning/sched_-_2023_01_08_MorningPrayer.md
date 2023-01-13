@@ -7,5 +7,5 @@
   - 
     - what: evangelism
   - 
-    - what: ChangeAndGrowthPlan
+    - what: counsel
 
