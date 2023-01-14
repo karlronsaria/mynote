@@ -9,6 +9,6 @@
 - type: todayonly
 
 # sched
-- what: recite C+G Plan memory passage
+- what: recite counsel memory passage
 - every: fri
 - type: todayonly
