@@ -7,7 +7,7 @@
   - author: Priolo, Lou
 
 # sched
-- what: read Bridges
+- what: read Jones
 - when: 2023_01_11
 - type: deadline
 - note
