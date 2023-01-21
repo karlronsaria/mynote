@@ -31,3 +31,13 @@
     - what: AAA Insurance, adjuster
     - name: Kimiko Sato
     - phone: (714) 435-8472
+
+- 2023_01_20_155712
+  - what
+    - claim: 015607946
+  - link
+    - mail
+      - to: andrew.mikedaniels@gmail.com
+      - from: sato.kimiko@aaa-calif.com
+      - subject: AAA Claim 015607946
+
