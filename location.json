@@ -1,0 +1,12 @@
+{
+    [
+        {
+            "Name": "Run Dialog History",
+            "Where": "HKCU/Software/Microsoft/Windows/CurrentVersion/Explorer/RunMRU",
+            "Tags": [
+                "registry", "run", "dialog", "history", "autocomplete"
+            ]
+        }
+    ]
+}
+
