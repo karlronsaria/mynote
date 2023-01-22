@@ -1,9 +1,17 @@
 - 2023_01_19
   - [ ] tutorial
-    - link:
-      - url: C:\doc\Web\2023_01_19_WinGui3\windows-apps.pdf
+    - link
+      - url
+        - https://learn.microsoft.com/en-us/windows/apps/desktop/
+        - https://learn.microsoft.com/en-us/windows/apps/desktop/
       - search
         - Build XAML controls with C#
         - Build Windows apps with .NET MAUI
         - Data binding and MVVM
-
+    - retrieved: 2023_01_19
+  - [ ] tutorial
+    - link:
+      - url
+        - https://xamlbrewer.wordpress.com/2022/02/07/building-a-master-detail-page-with-winui-3-and-mvvm/
+        - https://github.com/XamlBrewer/XamlBrewer.WinUI3.MasterDetailSample
+      - retrieved: 2023_01_22
