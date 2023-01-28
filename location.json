@@ -6,6 +6,13 @@
             "Tag": [
                 "registry", "run", "dialog", "history", "autocomplete"
             ]
+        },
+        {
+            "Name": "Samsung Device Photos",
+            "Where": "C:/Users/karlr/OneDrive/Pictures/Samsung Gallery",
+            "Tag": [
+                "samsung", "onedrive", "photos", "import"
+            ]
         }
     ]
 }
