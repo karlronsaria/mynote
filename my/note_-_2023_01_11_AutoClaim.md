@@ -1,3 +1,4 @@
+# Auto Claim
 
 - 2023_01_09_0212
   - incident
@@ -40,4 +41,16 @@
       - to: andrew.mikedaniels@gmail.com
       - from: sato.kimiko@aaa-calif.com
       - subject: AAA Claim 015607946
+
+- 2023_02_01_155609
+  - link
+    - mail
+      - to: sato.kimiko@aaa-calif.com
+      - from: andrew.mikedaniels@gmail.com
+      - what: bill of sale
+
+##### image
+
+![Page 1](./res/Page1_20230201_154106.jpg)
+![Page 2](./res/Page2_20230201_154140.jpg)
 

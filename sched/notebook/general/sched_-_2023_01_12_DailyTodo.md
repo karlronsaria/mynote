@@ -4,4 +4,6 @@
 - every: day
 - type: routine
 - note
+  - onload notes
+  - check email
   - typing practice
