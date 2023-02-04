@@ -5,5 +5,11 @@
 - type: routine
 - note
   - onload notes
+    - identify onload section
+    - transcribe onload section to main workspace
+    - for every action item in todo
+      - attempt to complete item
+      - if item cannot be completed, schedule item
   - check email
+  - apply for jobs
   - typing practice
