@@ -28,7 +28,9 @@
         - would not make peace with evil
           - no stalemates or impasses
         - would give a blessing to those who offend me
-        - would devote time to planning how to engage evil or difficult situations
+        - would devote time to planning how to engage
+          - evil
+          - difficult situations
   - 
     - when: 2023_01_08
     - source: Ramin

@@ -4,11 +4,14 @@
 - every: day
 - type: routine
 - note
+  - homework
+  - request
   - onload notes
     - identify onload section
       - physical
         - binder
           - left end
+        - notebook
       - mobile
         - photos
         - notes

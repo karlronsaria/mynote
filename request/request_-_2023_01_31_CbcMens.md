@@ -13,7 +13,7 @@
       - going through IVF
         - for wisdom
   - Ivan
-    - fmily member
+    - family member
       - hates her parents
         - experienced child abuse
         - doesn't want to forgive them
