@@ -16,7 +16,7 @@
       - Your forgivenes for my own sins of unforgiveness
 - note
   - 2023_01_12_1830
-    - what: meeting with Ramin
+    - what: meet with Ramin
     - todo
       - [x] read 4 chapters of Jones
       - [x] confess to God

@@ -6,6 +6,14 @@
 - note
   - onload notes
     - identify onload section
+      - physical
+        - binder
+          - left end
+      - mobile
+        - photos
+        - notes
+          - google assistant notes
+          - galaxy notes
     - transcribe onload section to main workspace
     - for every action item in todo
       - attempt to complete item

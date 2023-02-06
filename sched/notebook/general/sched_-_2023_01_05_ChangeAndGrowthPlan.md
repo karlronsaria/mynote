@@ -1,6 +1,6 @@
 # sched
 - tag: @counsel @ChangeAndGrowthPlan
-- what: meeting with Roi
+- what: meet with Roi
 - when:
 - type: event
 - note
