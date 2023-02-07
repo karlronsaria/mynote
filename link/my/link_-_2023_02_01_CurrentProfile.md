@@ -20,11 +20,6 @@
   - https://upwork.com
     - login: andrew.mikedaniels@gmail.com
 
-## other
-- url
-  - https://www.indeed.com/
-    - login: andrew.mikedaniels@gmail.com
-
 ## cv resume
 - url
   - https://docs.google.com
@@ -33,3 +28,19 @@
 - search: Andrew_Daniels_Resume_Software_Engineer
 - login: kamenlou@gmail.com
 - retrieved: 2023_02_01
+
+## history
+
+### education
+- Biola University
+  - when
+    - from: 2017_01
+    - to: 2021_05
+  - gpa: 3.2
+  - degree: BS
+  - major: Computer Science
+  - minor: Biblical Studies
+
+
+
+

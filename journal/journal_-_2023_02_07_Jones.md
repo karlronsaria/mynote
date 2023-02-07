@@ -1,0 +1,21 @@
+- 106
+  - study and apply the six truths
+    - note
+      - most pertinent
+      - most convicting
+    - sched
+      - one per day
+      - every week
+  - meditate
+    - Eph 4.32
+    - Col 3.13
+  - read
+    - title: _Forgive! As the Lord Forgave You_
+    - by: Patrick H. Morison
+    - todo
+      - write
+        - 6 key sentences
+        - three- to four-sentence applicative response
+  - todo
+    - "Pictures of God's Forgiveness of His People" in Appendix A
+

@@ -3,8 +3,7 @@
 - where
   - 25725 Jeronimo Rd, Mission Viejo, CA, 92691, United States
 - when
-  - [ ] 2023_01_20
-  - [ ] 2023_01_30
+  - [ ] 2023_02_09
 - type: todo
 - link
   - url: https://www.amazon.com
@@ -13,6 +12,8 @@
 - note
   - complete
     - [x] 2023_02_11
+    - [x] 2023_01_30
+    - [x] 2023_01_20
     - [x] 2023_01_15
     - [x] 2023_01_12
     - [x] 2023_01_07
