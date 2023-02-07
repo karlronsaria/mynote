@@ -14,6 +14,6 @@
 - where
   - address: 25652 Crown Valley Pkwy Suite F-1, Ladera Ranch, CA 92694
 - who: Code Ninjas Ladera Ranch CA
-- when: 2023_02_15_1300
+- when: 2023_02_08_1300
 - type: event
 - every: none

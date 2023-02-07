@@ -1,7 +1,10 @@
 # sched
 - what: meet with Nathan
-- when: 2023_02_09_1200
-- where: CBI
+- when: 2023_02_23_1200
+- to: 1300
+- where
+  - 26811 Aliso Creek Rd, Aliso Viejo, CA 92656
+  - CBI
 - type: event
 - link
   - url
