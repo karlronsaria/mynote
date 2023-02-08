@@ -1,0 +1,7 @@
+{
+    "Default": "master",
+    "Lateral": [
+        "laptop",
+        "mobile"
+    ]
+}
