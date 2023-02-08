@@ -47,4 +47,50 @@
         - three- to four-sentence applicative response
   - todo
     - "Pictures of God's Forgiveness of His People" in Appendix A
-
+108
+  - study, write out, and meditate
+    - Prov
+      - passage
+        - 10
+        - 12
+      - look for passages theat picture edifying speech activity
+        - you should have
+          - 10
+            - 11
+            - 13
+            - 20
+            - 21
+            - 31
+            - 32
+          - 12
+            - 18
+            - 25
+      - write and log
+        - speech guidelines
+    - Eph 4.25–32
+      - memorize
+        - particularly 29
+      - request
+      - write and log
+        - speech guidelines
+      - note
+        - godly speech is
+          - truthful (25)
+          - beneficial (29)
+          - timely (29)
+          - kind (31–32)
+        - the four rules of communication
+          - Be honest (25).
+          - Keep current (26–27).
+          - Attack problems, not people (29–30).
+          - Act; don't react. Control your emotions (31-32).
+  - read
+    - title: _Your Family, God's Way: Developing and Sustaining Relationships in the Home_
+    - by: Wayne Mack
+    - todo
+      - write
+        - 6 key sentences
+        - three- to four-sentence applicative response
+  - request
+    - aggressive peace-seeking
+    - "courageous expenditures of effort that exceed the natural comfort zone of concealers"
