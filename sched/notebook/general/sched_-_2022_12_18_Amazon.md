@@ -1,9 +1,11 @@
 # sched
+
 - what: Amazon Delivery
 - where
   - 25725 Jeronimo Rd, Mission Viejo, CA, 92691, United States
 - when
   - [ ] 2023_02_09
+  - [ ] 2023_02_10
 - type: todo
 - link
   - url: https://www.amazon.com
@@ -20,4 +22,3 @@
     - [x] 2023_01_06
     - [x] 2022_12_30
     - [x] 2022_12_19
-
