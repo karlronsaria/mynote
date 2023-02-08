@@ -5,6 +5,13 @@
 - type: routine
 - note
   - homework
+    - powershell
+      ```powershell
+      Get-MySchedule -Subdir homework
+      ```
+    - link
+      - url: [task](./task/daily/)
+      - retrieved: 2023_02_07
   - request
   - onload notes
     - identify onload section
@@ -22,5 +29,3 @@
       - attempt to complete item
       - if item cannot be completed, schedule item
   - check email
-  - apply for jobs
-  - typing practice

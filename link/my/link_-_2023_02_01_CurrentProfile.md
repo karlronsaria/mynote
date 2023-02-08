@@ -9,15 +9,22 @@
 
 ## profile
 - retrieved: 2023_02_01
-- url
-  - https://www.linkedin.com/in/andrewmikedaniels
+- what
+
+  - 
+    - name: github
+    - url: https://github.com/karlronsaria
+    - login: karlronsaria
+  - 
+    - name: linkedin
+    - url: https://www.linkedin.com/in/andrewmikedaniels
     - login
       - karlronsaria@live.com
       - andrew.mikedaniels@gmail.com
       - andrew.mikedaniels@yahoo.com
-  - https://github.com/karlronsaria
-    - login: karlronsaria
-  - https://upwork.com
+  - 
+    - name: upwork
+    - url: https://upwork.com
     - login: andrew.mikedaniels@gmail.com
 
 ## cv resume

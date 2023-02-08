@@ -50,3 +50,9 @@
         - forgiveness for parents
         - relinquishing expectations for others
       - Your forgivenes for my own sins of unforgiveness
+  - 
+    - when: 2023_02_07
+    - source: Ramin
+    - what
+      - daily help from your Spirit
+

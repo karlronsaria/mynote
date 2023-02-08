@@ -1,0 +1,24 @@
+# link
+- login
+  - name: adaniels0
+  - email: karlronsaria@live.com
+- what
+
+  - 
+    - 
+      - CBC
+      - CompassLife.org
+    - url
+      - https://compassbiblechurch.ccbchurch.com/
+      - https://compassbible.study/
+    - retrieved: 2023_02_07
+  - 
+    - Compass Men
+    - url
+      - https://www.compasschurch.org/groups/compass-men/
+      - https://compassbible.study/mbs/
+    - retrieved: 2023_02_07
+    - signup
+      - link
+        - url: [Confirmation](/doc/My/doc_-_2023_02_07_CbcSignupConfirm.pdf)
+        - retrieved: 2023_02_07
