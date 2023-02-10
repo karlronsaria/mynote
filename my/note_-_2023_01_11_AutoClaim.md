@@ -20,12 +20,9 @@
 - 2023_01_09_1505
   - get
     - rental
-      - Toyota Corolla, black, sedan
+      - 2023 Toyota Corolla, black, sedan
   - contact
     - what: Enterprise Rent-A-Car
-    - where
-      - address: 23682 Vía Fabricante, Mission Viejo, CA 92691
-    - phone: (949) 380-0330
 
 - 2023_01_11_1551
   - contact
@@ -54,3 +51,15 @@
 ![Page 1](./res/Page1_20230201_154106.jpg)
 ![Page 2](./res/Page2_20230201_154140.jpg)
 
+- 2023_02_09_180850
+  - get
+    - rental
+      - 2021 Nissan Versa, black, sedan
+  - contact
+    - what: Enterprise Rent-A-Car
+
+# link
+- what: Enterprise Rent-A-Car
+- where
+  - address: 23682 Vía Fabricante, Mission Viejo, CA 92691
+- phone: (949) 380-0330
