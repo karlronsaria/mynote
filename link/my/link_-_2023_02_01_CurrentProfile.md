@@ -26,6 +26,10 @@
     - name: upwork
     - url: https://upwork.com
     - login: andrew.mikedaniels@gmail.com
+  - 
+    - name: microsoft live
+    - url: https://account.microsoft.com/
+    - login: karlronsaria@live.com
 
 ## cv resume
 - url
