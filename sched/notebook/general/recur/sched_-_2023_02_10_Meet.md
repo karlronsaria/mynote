@@ -1,0 +1,11 @@
+# sched
+- what: meet with Jesse Luna
+- when: 1330
+- to: 1430
+- every: sat
+- type: event
+- todo
+  - [ ] where
+  - [ ] read Introduction of _Finally Free_ by Hugh Lambert
+  - [ ] memorize: Prov 1.7
+  - [ ] install: Bible Memory app
