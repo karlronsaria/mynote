@@ -47,13 +47,13 @@
         - three- to four-sentence applicative response
   - todo
     - "Pictures of God's Forgiveness of His People" in Appendix A
-108
+- 108
   - study, write out, and meditate
     - Prov
       - passage
         - 10
         - 12
-      - look for passages theat picture edifying speech activity
+      - look for passages that picture edifying speech activity
         - you should have
           - 10
             - 11
