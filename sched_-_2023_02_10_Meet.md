@@ -6,6 +6,6 @@
 - type: event
 - todo
   - [ ] where
-  - [ ] read Introduction of _Finally Free_ by Hugh Lambert
+  - [ ] read Introduction of _Finally Free_ by Heath Lambert
   - [ ] memorize: Prov 1.7
   - [ ] install: Bible Memory app
