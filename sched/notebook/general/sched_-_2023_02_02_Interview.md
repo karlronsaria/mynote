@@ -17,3 +17,29 @@
   - 2023_02_08_153649
     - what: personal interview
     - when: 2023_02_08_1300
+
+# sched
+- what: interview with Sean Iwohara for TWI
+- who: Sean Iwohara, "Teruko Weinberg, Inc. (TWI)"
+- where
+  - Zoom
+    - url: https://us04web.zoom.us/j/77983455102?pwd=8xc6zK0sbvpjbk6JDeUgSbQh33GS11.1
+    - id: 779 8345 5102
+    - passcode: 1p3Gha
+- when: 2023_02_14_1300
+- type: event
+- mail
+  - login: andrew.mikedaniels@gmail.com
+  - from: siwohara@twinc.com
+- todo
+  - [ ] link
+    - url: https://twinc.com/application-form/
+    - retrieved: 2023_02_13
+  - [ ] get, test
+    - Zoom app
+  - [ ] lookup
+    - "Teruko Weinberg, Inc. (TWI)"
+
+
+
+
