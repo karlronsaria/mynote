@@ -31,11 +31,16 @@
 - mail
   - login: andrew.mikedaniels@gmail.com
   - from: siwohara@twinc.com
+- link
+  - url
+    - https://twinc.com/
+    - https://twinc.com/wp-content/uploads/2022/01/Brochure_01232017.pdf
+  - retrieved: 2023_02_13
 - todo
   - [ ] link
     - url: https://twinc.com/application-form/
     - retrieved: 2023_02_13
-  - [ ] get, test
+  - [x] get, test
     - Zoom app
   - [ ] lookup
     - "Teruko Weinberg, Inc. (TWI)"
