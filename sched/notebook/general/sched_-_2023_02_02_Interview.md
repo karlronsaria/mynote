@@ -37,13 +37,26 @@
     - https://twinc.com/wp-content/uploads/2022/01/Brochure_01232017.pdf
   - retrieved: 2023_02_13
 - todo
-  - [ ] link
+  - [x] link
     - url: https://twinc.com/application-form/
     - retrieved: 2023_02_13
   - [x] get, test
     - Zoom app
-  - [ ] lookup
+  - [x] lookup
     - "Teruko Weinberg, Inc. (TWI)"
+    - kaseya
+    - altiris
+    - tivoli
+    - vmware
+    - microsoft cert
+    - active directory
+- note
+  - expect
+    - schedule
+      - mon-fri, 08-17
+    - 1-day notice for interview
+    - text communication
+
 
 
 
