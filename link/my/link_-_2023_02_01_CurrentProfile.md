@@ -8,28 +8,38 @@
 ![MyProfile](C:/pic/camera/selfie/edit/1675283739979.jpg)
 
 ## profile
-- retrieved: 2023_02_01
-- what
 
-  - 
-    - name: github
-    - url: https://github.com/karlronsaria
-    - login: karlronsaria
-  - 
-    - name: linkedin
-    - url: https://www.linkedin.com/in/andrewmikedaniels
-    - login
-      - karlronsaria@live.com
-      - andrew.mikedaniels@gmail.com
-      - andrew.mikedaniels@yahoo.com
-  - 
-    - name: upwork
-    - url: https://upwork.com
-    - login: andrew.mikedaniels@gmail.com
-  - 
-    - name: microsoft live
-    - url: https://account.microsoft.com/
-    - login: karlronsaria@live.com
+- 
+  - retrieved: 2023_02_01
+  - what
+
+    - 
+      - name: github
+      - url: https://github.com/karlronsaria
+      - login: karlronsaria
+    - 
+      - name: linkedin
+      - url: https://www.linkedin.com/in/andrewmikedaniels
+      - login
+        - karlronsaria@live.com
+        - andrew.mikedaniels@gmail.com
+        - andrew.mikedaniels@yahoo.com
+    - 
+      - name: upwork
+      - url: https://upwork.com
+      - login: andrew.mikedaniels@gmail.com
+    - 
+      - name: microsoft live
+      - url: https://account.microsoft.com/
+      - login: karlronsaria@live.com
+- 
+  - retrieved: 2023_02_14
+  - what
+
+    - 
+      - name: slack
+      - url: https://slack.com/
+      - login: andrew.mikedaniels@gmail.com
 
 ## cv resume
 - url

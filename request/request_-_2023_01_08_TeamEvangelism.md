@@ -4,22 +4,58 @@
   - daily routine
     - one group of solicitees per subteam on Slack
   - preparation
-    - of the team
-      - to have
-        - confidence and focus
-        - care and heart for unbelievers
-        - _ Your Word
-          - excitement for
-          - readiness to preach
-        - courage
-    - of myself
-      - that I would learn
-        - how to preach Your Word with confidence
-        - from my peers
-        - care and heart for unbelievers
-        - how to talk to and care for my friends on the team
-    - of the region we visit
-      - to have
-        - readiness to hear
-      - the work of the Holy Spirit on their hearts
-      - a path for us to do Your work there
+    - 2023_02_13_235825
+      - of the team
+        - to have
+          - confidence and focus
+          - care and heart for unbelievers
+          - _ Your Word
+            - excitement for
+            - readiness to preach
+          - courage
+      - of myself
+        - that I would learn
+          - how to preach Your Word with confidence
+          - from my peers
+          - care and heart for unbelievers
+          - how to talk to and care for my friends on the team
+      - of the region we visit
+        - to have
+          - readiness to hear
+        - the work of the Holy Spirit on their hearts
+        - a path for us to do Your work there
+    - 2023_02_13_235833
+      - before
+        - of myself
+          - that you would remove my excuses
+            - fear and rejection
+            - lack of time/time commitment
+            - not feeling equipped
+            - lack of love for the lost
+        - of opportunities
+          - to arise
+          - my boldness to take them
+        - of more Christian evangelists
+          - local
+            - family, friends, Compass AV(?)
+          - distant
+            - church plants, global missionaries
+      - during
+        - of myself
+          - wisdom
+          - clarity
+          - speaking the truth in love
+        - of them
+          - understanding
+          - receptive hearts
+          - no distractions
+      - after
+        - of myself
+          - gratitude to you
+          - diligence to continue praying for solicitees
+          - follow-up opportunities
+        - of them
+          - conviction from your Word
+          - gospel authority
+          - salvation
+
