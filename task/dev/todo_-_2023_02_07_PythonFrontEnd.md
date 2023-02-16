@@ -4,12 +4,18 @@
     - [ ] 
       - link
 
-        - 
-          - url: https://realpython.com/flask-connexion-rest-api/
-          - retrieved: 2023_02_07
-        - 
+        - [ ] 
+          - url: https://realpython.com/flask-javascript-frontend-for-rest-api/
+          - retrieved: 2023_02_16
+        - [x] 
+          - url: https://realpython.com/flask-connexion-rest-api-part-3/
+          - retrieved: 2023_02_16
+        - [x] 
           - url: https://realpython.com/flask-connexion-rest-api-part-2/
           - retrieved: 2023_02_13
+        - [x] 
+          - url: https://realpython.com/flask-connexion-rest-api/
+          - retrieved: 2023_02_07
 - link
   - url: https://realpython.com/tutorials/front-end/
   - retrieved: 2023_02_07
