@@ -23,7 +23,7 @@
   - declined talk
   - declined literature
 
-- Jessica (30s)
+- Jessica (30s F)
   - has family
   - Lutheran
   - heard the full gospel from Wes
@@ -50,3 +50,6 @@
   - took literature
 
 # image
+
+![SalesRabbit](./res/Screenshot_20230218_131912_SalesRabbit.jpg)
+
