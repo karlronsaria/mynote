@@ -1,21 +1,30 @@
 # request
 - where: CBC Bible Study Men's
 - tag: church, CBC, men
-- log
 - what
-  - AJ
-    - a job
-    - future
-  - Joey
-    - repentance
-  - Tom
-    - family member
-      - going through IVF
-        - for wisdom
-  - Ivan
-    - family member
-      - hates her parents
-        - experienced child abuse
-        - doesn't want to forgive them
-  - David
-    - sleep for family
+  - 2023_02_21
+    - what
+      - Joey
+        - temptation
+          - lust, anger, pride
+        - request
+          - would draw closer to you
+- log
+  - 2023_01_31
+    - what
+      - AJ
+        - a job
+        - future
+      - Joey
+        - repentance
+      - Tom
+        - family member
+          - going through IVF
+            - for wisdom
+      - Ivan
+        - family member
+          - hates her parents
+            - experienced child abuse
+            - doesn't want to forgive them
+      - David
+        - sleep for family
