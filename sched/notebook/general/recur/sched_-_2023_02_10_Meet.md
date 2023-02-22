@@ -1,11 +1,18 @@
 # sched
 - what: meet with Jesse Luna
+- where: Google Meet
 - when: 1330
 - to: 1430
 - every: sat
 - type: event
 - todo
-  - [ ] where
-  - [ ] read Introduction of _Finally Free_ by Heath Lambert
-  - [ ] memorize: Prov 1.7
-  - [ ] install: Bible Memory app
+  - read: _Finally Free_ by Heath Lambert
+    - [ ] Chapter 1
+- log
+  - 2023_02_22_131934
+    - todo
+      - [x] read Introduction of _Finally Free_ by Heath Lambert
+      - [x] memorize: Prov 1.7
+      - [x] install: Bible Memory app
+      - [x] where
+        - Google Meets
