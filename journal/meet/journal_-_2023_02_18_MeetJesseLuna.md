@@ -19,8 +19,11 @@
 - todo
   - sched
     - daily
-      - prayer
-      - dbr
-      - memory passage
+      - [x] prayer
+        - morning
+        - evening
+      - [x] dbr
+        - evening
+      - [x] memory passage
         - 1Pe 1.14-16
 
