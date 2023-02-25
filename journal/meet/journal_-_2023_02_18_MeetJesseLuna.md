@@ -16,14 +16,14 @@
     - in order to turn away from something sinful
   - "I am going to replace those bad images with God's holy word."
 
-- todo
-  - sched
-    - daily
-      - [x] prayer
-        - morning
-        - evening
-      - [x] dbr
-        - evening
-      - [x] memory passage
-        - 1Pe 1.14-16
+# todo
+- sched
+  - daily
+    - [x] prayer
+      - morning
+      - evening
+    - [x] dbr
+      - evening
+    - [x] memory passage
+      - 1Pe 1.14-16
 
