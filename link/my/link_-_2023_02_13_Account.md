@@ -32,3 +32,10 @@
     - andrew.m.daniels@biola.edu
     - uwusmurf.kekeke@gmail.com
 - retrieved: 2023_02_22
+
+# link
+- what: ClearlyReader
+- login: kamenlou@gmail.com
+- url: https://clearlyreader.com/
+- retrieved: 2023_02_26
+
