@@ -5,6 +5,7 @@
       - link
 
         - [ ] 
+          - progress: https://realpython.com/flask-javascript-frontend-for-rest-api/#sprinkle-in-some-javascript
           - url: https://realpython.com/flask-javascript-frontend-for-rest-api/
           - retrieved: 2023_02_16
         - [x] 
